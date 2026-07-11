@@ -1,0 +1,6 @@
+{
+  "name": "Fiora Family Beauty Salon",
+  "description": "An elite, premium digital experience for Fiora Family Beauty Salon in Kakkanad, Kochi. Explore services across Hair, Skin, Nail, and Makeup, interact with our AI style consultant, generate personalized high-quality style visualizers, and seamlessly book appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
